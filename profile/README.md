@@ -16,6 +16,6 @@ If you're interested in contributing to Ionic Notes, feel free to submit a pull 
 
 ## Contact
 
-If you have any questions, comments, or suggestions, you can contact me at [Your Email Address].
+If you have any questions, comments, or suggestions, you can contact me at hi@ionicnotes.com.
 
 Happy coding!
