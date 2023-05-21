@@ -8,7 +8,7 @@ Ionic Notes is a blog created for developers who are interested in learning abou
 
 ## About the Author
 
-My name is [Your Name], and I'm a software developer with a passion for mobile app development. I started this blog to share my knowledge and experience with others who are interested in learning about Ionic Framework, Angular, HTML, CSS, React, and React Native. 
+My name is [Zagham Nadeem](https://github.com/zagham-nadeem), and I'm a software developer with a passion for mobile app development. I started this blog to share my knowledge and experience with others who are interested in learning about Ionic Framework, Angular, HTML, CSS, React, and React Native. 
 
 ## Contributing
 
